@@ -1,0 +1,15 @@
+1. read 'Google CS First (Scratch) User Presentation' and join Google CS First program
+2. take follow folders 1a and 1b
+3. start 'Storytelling', and follow modules as in pic 'Google CS First - Modules'
+4. Take a project from '2b. CodeClubProjects' (in order) 
+5. Intermediate and advance - take a project from folder '2c. CoderDojoProjects'
+
+
+
+
+
+
+
+
+
+
